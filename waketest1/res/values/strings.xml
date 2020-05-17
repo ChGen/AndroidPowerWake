@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">waketest1</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="new_message_notification_title_template">New message: %1$s</string>
+    <string name="new_message_notification_placeholder_text_template">You said %1$s. WakeLock acquired.</string>
+    <string name="action_share">Share</string>
+    <string name="action_reply">Reply</string>
+
+</resources>
