@@ -1,2 +1,2 @@
 # AndroidPowerWake
-Test Android application with prevents sleep when charging (for old Android firmwares)
+Test Android application which prevents sleep when charging (for old Android firmwares)
